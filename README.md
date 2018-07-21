@@ -1,4 +1,6 @@
-------WORKSHOP LARAVEL------
+## WORKSHOP LARAVEL
 Jumat, 20-Juli-2018
--Menambahkan package laravolt di project baru
--Menambahkan package envi di package laravolt
+```
+1. Menambahkan package laravolt di project baru
+2. Menambahkan package envi di package laravolt
+```
